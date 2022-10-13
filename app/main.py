@@ -1,3 +1,5 @@
+#sample python code using FastAPI to return a JSON
+
 from fastapi import FastAPI
 import os
 import random
